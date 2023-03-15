@@ -2,26 +2,32 @@
     {
         "id":1,
         "title":"sakız",
-        "price":1
+        "price":1,
+        "image":"https://productimages.hepsiburada.net/s/22/550/9952480460850.jpg/format:webp"
+
     },
     {
         "id":2,
         "title":"çikolata",
-        "price":4
+        "price":4,
+        "image":"https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/558-8690526096599-jpg-8690526096599.jpg"
     },
     {
         "id":3,
         "title":"deteryan",
-        "price":10
+        "price":10,
+        "image":"https://static.ticimax.cloud/39432/uploads/urunresimleri/worldchem-bitkisel-beyazlar-renkliler--c76f2a.jpg"
     },
     {
         "id":4,
         "title":"araba",
-        "price":1000
+        "price":1000,
+        "image":"https://productimages.hepsiburada.net/s/79/1500/110000021527309.jpg"
     },
     {
         "id":5,
         "title":"kazak",
-        "price":50
+        "price":50,
+        "image":"https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/164313_0.jpeg?v=1676591068"
     }
 ]

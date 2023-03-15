@@ -7,7 +7,7 @@ const Header = ({ money, total }) => {
   return (
     <div className="header" >
       {(total > 0 && <>Harcayamak için <span>${money - total}</span>  paranız kaldı.</>) || (
-        <>Harcamak için ${money} paranız var. </>
+        <>Harcamak için <span>${money}</span> paranız var. </>
       )}
     </div>
   );
