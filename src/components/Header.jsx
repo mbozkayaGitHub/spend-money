@@ -1,10 +1,12 @@
 
-import React from "react" ;
 
+
+import React from "react";
+import "./Header.css"
 const Header = ({ money, total }) => {
   return (
-    <div>
-      {(total > 0 && <>Harcayamak için ${money - total} paranız kaldı.</>) || (
+    <div className="header" >
+      {(total > 0 && <>Harcayamak için <span>${money - total}</span>  paranız kaldı.</>) || (
         <>Harcamak için ${money} paranız var. </>
       )}
     </div>
